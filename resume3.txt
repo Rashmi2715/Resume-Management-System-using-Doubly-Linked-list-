@@ -1,0 +1,39 @@
+JohnGracia 28 Kyotouniversity EngineeringScience 2016-2020 8.7 Python Infosys(2021-2023) chess johngrac@gmail.com
+
+Mathew.S 30 StanfordUniversity,California MSComputerScience 2015-2017 6.9 DataAnalytics KotmanTechnology(2018-2022) Poetry mathewsmith@gmail.com
+
+Suraj.S 25 SRMinstitute BTechElectronicg 2018-2022 9.8 DatabaseManagement NULL Drawing surajs@gmail.com
+
+SelenaWilson 26 UniversityofHamburg,Germany M.Sc(ComputerSciennce) 2019-2022 9.6 Informationsystemsecurity Siemens(2017-2019) Cooking selenawilson@gmail.com
+
+AcharyaAgarwal 21 NIT,Surthkal,India B.TechComputerScience 2018-2022 8.7 InformationTechnology NULL Blogging acharyaagarwal2@gmail.com
+
+KimSoo 35 UniversityofToronto,Canada StatisticalSciences 2007-2012 9.2 Networkadministration SAP(2013-2018),CGI(2019-2023) Basketball kimsoojoon8@gmail.com
+
+ShreeyaGuggari 22 UniversityofYale ComputerScience 2019-2023 9.8 UX NULL Freelancer shreeyag1@gmail.com
+
+Bhuvan.M 26 BMNIT,Banaglore ElectronicEngineer 2017-2020 7.3 Dataanalytics Qualcomm(2020-2023) Cricket mbhuvan@gmail.com
+
+RiyaShetty 27 RVUniversity,Bengaluru AIML 2016-2019 9.5 UI Accenture(2020-2022) Dancing riyashetty@gmail.com
+
+ArnavAgarwal 32	JainCollege,Mumbai ComputerScience 2011-2014 6.3 Databasemanagement Bosch(2015-2023) Sketching agarwalarnav@gmail.com
+
+DrewSmith 24 UniversityofToronto,Canada ComputerScience 2018-2021 8.8 CloudComputing Congnizant(2020-2023) Travel drew18@gmail.com
+
+PrannethT 24 PESUniversity ElectronicsandCommunicationEngineering 2019-2022 9 Blockchain NULL Chess praneeth21@gmail.com
+
+Ramakrishna.G 34 BITMUniversity,Bellary B.TechComputerScienceandEngineering 2017-2021 9.3 CISSP Google(2021-2023) Readingbooks	ramu2004@gmail.com
+
+Kavya.A	27 DayanandaSagarCollegeofEngineering B.TechAIML 2016-2020 9.5 MachineLearning Microsoft(2020-2022) Singing,Dancing arva2004kavya@gmail.com
+
+Shraddha.V.G 28	DelhiTechnolgicalUniversity(DTU) B.TechComputerScienceandEngineering 2014-2018 8.5 C++ Harman(2019-2021)  Writing hraddhavishwa@gmail.com       
+
+AmithReddy.P.S 21 RVUniversity,Bengaluru B.TechComputerScience 2018-2022 9.77 InternetofThings Wipro Hockey amith2004reddy@gmail.com
+
+Sayesh.R.Shet 36 UniversityofMadras M.Tech(embeddsystems) 2013-2016 9.8	UNIX NULL Dancing sayeshraj@gmail.com
+
+Prashanth.V 28 AnnaUniversity(TamilNadu) B.TechAIML 2016-2020 7.5 SoftwareTesting NULL Acting prashanth19@gmail.com
+
+Jennat.D 23 BMScollegeofEngineering B.techElectronicandCommunicationEngineering	2018-2022 9.7 DevOps Deloitte Drawing jennatds1522004@gmail.com
+
+
