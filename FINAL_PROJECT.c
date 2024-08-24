@@ -203,12 +203,12 @@ void home ()
                 break;
 			case 2:
                 deleteByCGPA(&head);
-                printf("Deleting people with zero expereince....\nCompleted");
+                printf("Deleting people with CGPA less than 7.5......\nCOmpleted");
                 display(head);
 				break;
 			case 3:
                 deleteByExperience(&head);
-                printf("Deleting people with CGPA less than 7.5......\nCOmpleted");
+                printf("Deleting people with zero expereince....\nCompleted");
                 display(head);
 				break;
 			case 4:
